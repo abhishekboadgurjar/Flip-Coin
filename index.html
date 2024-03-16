@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flip Coin</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="main">
+      <div id="logo_image"></div>
+      <div class="container">
+        <p>Flipping your fate with a click</p>
+        <div class="stats">
+          <p id="heads-count">Heads:0</p>
+          <p id="tails-count">Tails:0</p>
+        </div>
+        <div class="coin">
+          <div class="heads">
+            <img
+              src="https://raw.githubusercontent.com/AsmrProg-YT/100-days-of-javascript/c82f3949ec4ba9503c875fc0fa7faa4a71053db7/Day%20%2307%20-%20Flip%20a%20Coin%20Game/heads.svg"
+            />
+          </div>
+          <div class="tails">
+            <img
+              src="https://raw.githubusercontent.com/AsmrProg-YT/100-days-of-javascript/c82f3949ec4ba9503c875fc0fa7faa4a71053db7/Day%20%2307%20-%20Flip%20a%20Coin%20Game/tails.svg"
+            />
+          </div>
+        </div>
+        <div id="buttons">
+          <button id="flip-button">Flip coin</button>
+          <button id="reset-button">Reset</button>
+          <audio id="flip-sound">
+            <source src="./assets/coin-flip-88793.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+        </div>
+      </div>
+    </div>
+    <script src="./script.js"></script>
+  </body>
+</html>

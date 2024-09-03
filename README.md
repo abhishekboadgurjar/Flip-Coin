@@ -20,7 +20,6 @@ The **Flip Coin** is a web-based application that simulates the flipping of a co
 - **CSS**: Styles the application and adds animations for a visually appealing experience.
 - **JavaScript**: Implements the coin-flipping logic and handles user interactions.
 
-
 ## Installation
 
 To get started with the project, follow these steps:

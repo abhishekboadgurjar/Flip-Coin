@@ -26,7 +26,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekgurjar-in/Flip-Coin.git
+    git clone https://github.com/abhishekboadgurjar/Flip-Coin.git
     ```
 
 2. **Open the project directory**:
@@ -47,7 +47,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Flip Coin project [here](https://abhishekgurjar-in.github.io/Flip-Coin/).
+You can check out the live demo of the Flip Coin project [here](https://abhishekboadgurjar.github.io/Flip-Coin/).
 
 ## Screenshots
 
@@ -64,4 +64,4 @@ This project was developed as part of my ongoing journey to enhance my front-end
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekgurjar-in)
+  - [GitHub Profile](https://github.com/abhishekboadgurjar)
